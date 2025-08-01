@@ -34,6 +34,12 @@
 # Visual Studio cache directory
 .vs/
 
+# rider cache directory
+.idea/
+
+# Mirror examples
+[Aa]ssets/Mirror/Examples/
+
 # Gradle cache directory
 .gradle/
 
